@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveJunk",
+            "request": "launch",
+            "mainClass": "RemoveJunk",
+            "projectName": "Java Interview Questions_bf891c9"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
