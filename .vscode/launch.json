@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MostRepeatedNumber",
+            "request": "launch",
+            "mainClass": "ArrayQuestions.MostRepeatedNumber",
+            "projectName": "Java Interview Questions_bf891c9"
+        },
+        {
+            "type": "java",
+            "name": "FactorialNumber",
+            "request": "launch",
+            "mainClass": "integerquestions.FactorialNumber",
+            "projectName": "Java Interview Questions_bf891c9"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeNumber",
+            "request": "launch",
+            "mainClass": "integerquestions.PalindromeNumber",
+            "projectName": "Java Interview Questions_bf891c9"
+        },
+        {
+            "type": "java",
+            "name": "FizzFuzz",
+            "request": "launch",
+            "mainClass": "integerquestions.FizzFuzz",
+            "projectName": "Java Interview Questions_bf891c9"
+        },
+        {
+            "type": "java",
             "name": "ReverseInteger",
             "request": "launch",
             "mainClass": "integerquestions.ReverseInteger",

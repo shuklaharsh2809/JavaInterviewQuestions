@@ -2,7 +2,7 @@ package integerquestions;
 
 public class ReverseInteger {
     public static void main(String[] args) {
-        
+    // 1st solution    
     int num=12345;//54321
     int rev=0;
 
@@ -12,6 +12,7 @@ public class ReverseInteger {
 
     }
     System.out.println("Reverse number is:"+ rev);
+    
 
   }
 }
